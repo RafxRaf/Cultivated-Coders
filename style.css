@@ -1,0 +1,42 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+.gmail{
+   float: right;
+}
+
+.images{
+   float: right;
+}
+.apps {
+    float: right; 
+}
+.sign-in {
+    float: right;
+}
+#Google {
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 15%;
+}
+.material-icons {
+    margin-left: 43%;
+}
+.google-search {
+    margin-left: 43%;
+}
+.privacy {
+    float: right; 
+}
+.terms {
+    float: right;
+}
+.settings {
+    float: right;
+}
